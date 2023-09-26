@@ -2200,6 +2200,10 @@
     (uuid fe81317a-feae-4f83-aca8-692d1fcfc4a1)
   )
 
+  (text "Licensed under GPL 3.0" (at 179.07 170.18 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 0098565c-f6af-445a-b624-2fbd6a8d66a4)
+  )
   (text "TX1" (at 152.4 102.87 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 239f2937-97dd-4314-a3f3-05b14e56739d)
